@@ -1,0 +1,6 @@
+{
+  "name": "Annotly — Website Feedback & Visual Annotation SaaS",
+  "description": "Visual website feedback, live DOM annotations, and team collaboration platform for modern web creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
